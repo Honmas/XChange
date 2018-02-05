@@ -15,7 +15,7 @@ A complete list of implemented exchanges, data providers and brokers can be foun
 
 Usage is very simple: Create an Exchange instance, get the appropriate service, and request data.
 
-## Example 1: Public Market Data
+## Example 1: Public Market Data 
 
 ```java
 Exchange bitstamp = ExchangeFactory.INSTANCE.createExchange(BitstampExchange.class.getName());
