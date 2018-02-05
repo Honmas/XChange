@@ -4,7 +4,7 @@
 
 XChange is a Java library providing a simple and consistent API for interacting with 60+ Bitcoin and other crypto currency exchanges providing a
 consistent interface for trading and accessing market data.
-
+  dd
 ## Important!
 
 The world of Bitcoin changes quickly and XChange is no exception. The best way to stay updated on important announcements is to follow tweets on [Knowm's Twitter page](https://twitter.com/knowmorg). For the latest bugfixes and features you should use the [snapshot jars] (https://oss.sonatype.org/content/groups/public/org/knowm/xchange/) or build yourself from the DEVELOP branch. See below for more details about building with Maven. To report bugs and see what issues people are currently working on see the [issues page](https://github.com/timmolter/XChange/issues). There are also most likely some open [bounties](http://knowm.org/open-source/) to be had as well.
@@ -94,6 +94,7 @@ Download XChange Release Jars: http://search.maven.org/#search%7Cga%7C1%7Cknowm%
 Download XChange Snapshot Jars: https://oss.sonatype.org/content/groups/public/org/knowm/xchange/
 
 ### Maven
+
 
 The XChange release artifacts are hosted on Maven Central. 
   
