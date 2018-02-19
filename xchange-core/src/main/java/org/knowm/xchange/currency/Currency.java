@@ -256,7 +256,6 @@ public class Currency implements Comparable<Currency>, Serializable {
   public static final Currency SLS = createCurrency("SLS", "Bitcoin Gold", null);
   public static final Currency NMR = createCurrency("NMR", "Bitcoin Gold", null);
   public static final Currency PART = createCurrency("PART", "Bitcoin Gold", null);
-  public static final Currency MCO = createCurrency("MCO", "Bitcoin Gold", null);
   public static final Currency CLOAK = createCurrency("CLOAK", "Bitcoin Gold", null);
   public static final Currency VTC = createCurrency("VTC", "Bitcoin Gold", null);
   public static final Currency KORE = createCurrency("KORE", "Bitcoin Gold", null);
@@ -317,7 +316,6 @@ public class Currency implements Comparable<Currency>, Serializable {
   public static final Currency RCN = createCurrency("RCN", "Bitcoin Gold", null);
   public static final Currency BAY = createCurrency("BAY", "Bitcoin Gold", null);
   public static final Currency ADT = createCurrency("ADT", "Bitcoin Gold", null);
-  public static final Currency FUN = createCurrency("FUN", "Bitcoin Gold", null);
   public static final Currency MANA = createCurrency("MANA", "Bitcoin Gold", null);
   public static final Currency XVG = createCurrency("XVG", "Bitcoin Gold", null);
   public static final Currency VIB = createCurrency("VIB", "Bitcoin Gold", null);
@@ -327,7 +325,6 @@ public class Currency implements Comparable<Currency>, Serializable {
   public static final Currency BITB = createCurrency("BITB", "Bitcoin Gold", null);
   public static final Currency XDN = createCurrency("XDN", "Bitcoin Gold", null);
   public static final Currency RDD = createCurrency("RDD", "Bitcoin Gold", null);
-  public static final Currency ADA = createCurrency("ADA", "Bitcoin Gold", null);
   public static final Currency VEE = createCurrency("VEE", "Blockv", null);
   public static final Currency WAX = createCurrency("WAX", "WAX", null);
   public static final Currency ZRX = createCurrency("ZRX", "ZeroX", null);
@@ -336,6 +333,23 @@ public class Currency implements Comparable<Currency>, Serializable {
   public static final Currency ENG = createCurrency("ENG", "ENG", null);
   public static final Currency UKG = createCurrency("UKG", "UKG", null);
   public static final Currency DNT = createCurrency("DNT", "DNT", null);
+  public static final Currency BNB = createCurrency("BNB", "Binance Coin", null);
+  public static final Currency QSP = createCurrency("QSP", "Quantstamp", null);
+  public static final Currency IOTA = createCurrency("IOTA", "Iota", null);
+  public static final Currency YOYO = createCurrency("YOYO", "Yoyow", null);
+  public static final Currency BTS = createCurrency("BTS", "Bitshare", null);
+  public static final Currency ICX = createCurrency("ICX", "Icon", null);
+  public static final Currency MCO = createCurrency("MCO", "Monaco", null);
+  public static final Currency CND = createCurrency("CND", "Cindicator", null);
+  public static final Currency POE = createCurrency("POE", "Po.et", null);
+  public static final Currency TRX = createCurrency("TRX", "Tron", null);
+  public static final Currency ADA = createCurrency("ADA", "Cardano", null);
+  public static final Currency FUN = createCurrency("FUN", "FunFair", null);
+  public static final Currency HSR = createCurrency("HSR", "Hshare", null);
+  public static final Currency LEND = createCurrency("LEND", "ETHLend", null);
+  public static final Currency ELF = createCurrency("ELF", "aelf", null);
+  public static final Currency STORJ = createCurrency("STORJ", "Storj", null);
+  public static final Currency MOD = createCurrency("MOD", "Modum", null);
 
   /**
    * Gets the set of available currencies.
