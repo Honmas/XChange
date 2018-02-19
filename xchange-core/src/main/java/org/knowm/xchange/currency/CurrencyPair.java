@@ -308,7 +308,6 @@ public class CurrencyPair implements Comparable<CurrencyPair>, Serializable {
   public static final CurrencyPair PTOY_BTC = new CurrencyPair(Currency.PTOY, Currency.BTC);
   public static final CurrencyPair AMP_BTC = new CurrencyPair(Currency.AMP, Currency.BTC);
   public static final CurrencyPair LBC_BTC = new CurrencyPair(Currency.LBC, Currency.BTC);
-  public static final CurrencyPair BAT_BTC = new CurrencyPair(Currency.BAT, Currency.BTC);
   public static final CurrencyPair GUP_BTC = new CurrencyPair(Currency.GUP, Currency.BTC);
   public static final CurrencyPair MUE_BTC = new CurrencyPair(Currency.MUE, Currency.BTC);
   public static final CurrencyPair CFI_BTC = new CurrencyPair(Currency.CFI, Currency.BTC);
